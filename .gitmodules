@@ -1,0 +1,4 @@
+[submodule "contrib/waybar"]
+path = contrib/waybar
+url = git+https://github.com/Honey-Be/Waybar.git
+branch = master
